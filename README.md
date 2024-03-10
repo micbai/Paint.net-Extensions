@@ -2,7 +2,7 @@
 
 Iconify is a file extension for [Paint.net](https://www.getpaint.net/) to save and load Icon files with .ico file extension. 
 
-I came up with this version because I couldn't find any icon extension working with the current *Paint.net 5.0.13* release. Kudos to KyleTTucker, the Iconify extension is based on his initial code. 
+I came up with this version because I couldn't find any icon extension working with the current **Paint.net 5.0.13** release. Kudos to KyleTTucker, the Iconify extension is based on his initial code. 
 
 The startup project for Visual Studio 2022 was created with [CodeLab](https://boltbait.com/pdn/CodeLab/)
 
