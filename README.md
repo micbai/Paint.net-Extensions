@@ -10,7 +10,7 @@ The startup project for Visual Studio 2022 was created with [CodeLab](https://bo
 GNU GENERAL PUBLIC LICENSE
 Version 3, 29 June 2007
 
-Copyright (C) 1024 Michael Baier
+Copyright (C) 2024 Michael Baier
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU General Public License as published by
